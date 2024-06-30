@@ -1,6 +1,6 @@
-﻿# LangChainSummarizer
+﻿# summarize
 
-LangChainSummarizer is a simple web application that provides an AI-powered text summarization service 
+Summarize is a simple web application that provides an AI-powered text summarization service 
 using FastAPI and LangChain. 
 Users can submit text input, and the application returns a concise summary of the text. 
 The summarization is powered by a pre-trained model from Hugging Face's Transformers library, 
