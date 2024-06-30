@@ -1,4 +1,4 @@
-﻿# summarize
+﻿# Summarize
 
 Summarize is a simple web application that provides an AI-powered text summarization service 
 using FastAPI and LangChain. 
