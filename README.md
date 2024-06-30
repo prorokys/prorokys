@@ -26,7 +26,7 @@ ensuring high-quality and accurate summaries.
    uvicorn main:app --reload
    ```
 
-2. Open your browser and go to http://127.0.0.1:8000/ to access the API documentation and test the endpoint.
+2. Open your browser and go to http://127.0.0.1:8000/ to access the API and test the endpoint.
 
 
 ### Endpoint
